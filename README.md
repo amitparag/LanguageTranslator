@@ -1,3 +1,3 @@
 # LanguageTranslator
 
-Abdroid app to translate languages
+Android app to translate languages
